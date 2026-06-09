@@ -398,7 +398,7 @@ const HomePage = ({ navigate }) => {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&q=80"
+            src="https://c4.wallpaperflare.com/wallpaper/809/892/978/autumn-morning-near-passo-di-giau-dolomites-italy-landscape-nature-android-wallpapers-for-your-desktop-or-phone-3840%C3%972400-wallpaper-preview.jpg"
             alt="Hero Travel"
             className="w-full h-full object-cover"
           />
@@ -411,7 +411,7 @@ const HomePage = ({ navigate }) => {
             Explore the unseen world
           </span>
           <h1
-            className="text-5xl md:text-7xl font-extrabold text-grey mb-6 leading-tight animate-slide-up"
+            className="text-5xl md:text-7xl font-extrabold text-white mb-6 leading-tight animate-slide-up"
             style={{ animationDelay: "0.1s" }}
           >
             Your Journey To <br />{" "}
